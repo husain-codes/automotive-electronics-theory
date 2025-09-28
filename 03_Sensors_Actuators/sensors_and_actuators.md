@@ -82,11 +82,11 @@ The **wiring harness** interconnects sensors, ECUs, and actuators.
 ### Key Elements
 - **Fuses/Fuse box** – protects circuits from overcurrent.  
 - **Connectors & Terminals** – reliable under vibration & heat.  
-- **Grounding (CL31)** – entire car body acts as common ground.  
+- **Grounding (KL31)** – entire car body acts as common ground.  
 - **Power lines**:  
-  - **CL30** – always active (battery direct).  
-  - **CL15** – active with ignition ON.  
-  - **CL50** – active during cranking (starter motor).  
+  - **KL30** – always active (battery direct).  
+  - **KL15** – active with ignition ON.  
+  - **KL50** – active during cranking (starter motor).  
 
 Harness design must balance **safety, durability, and weight reduction**, especially in EVs.
 
